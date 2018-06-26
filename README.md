@@ -1,0 +1,2 @@
+# pengelasan.id
+sitemap
